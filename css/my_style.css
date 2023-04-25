@@ -14,7 +14,7 @@
     }
     :root {
          --bs-primary: rgb(34, 212, 67);
-         --bs-primary-rgb: 165, 42, 42;
+         --bs-primary-rgb: 34, 212, 67;
          --bs-secondary: blue;
          --bs-secondary-rgb: 41, 145, 236;
     }
